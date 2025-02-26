@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharva Wagh</h1>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZ1M3J2bXNka3k2OW4xa3U1Z3BkdGNwZzJxbjZybGV2aDg1dmVxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/web-develop/giphy.gif](https://www.krome.sg/wp-content/media/functionality-vs-aesthetics-web-design.jpg)" alt="Web Development GIF" width="500"/>
+  <img src=[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZ1M3J2bXNka3k2OW4xa3U1Z3BkdGNwZzJxbjZybGV2aDg1dmVxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/web-develop/giphy.gif" alt="Web Development GIF" width="500"/>
 </p>
 
 <h3 align="center">A passionate frontend developer from India</h3>
