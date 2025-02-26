@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharva Wagh</h1>
 
-<p align="center">
-  <img src=[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZ1M3J2bXNka3k2OW4xa3U1Z3BkdGNwZzJxbjZybGV2aDg1dmVxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/web-develop/giphy.gif" alt="Web Development GIF" width="500"/>
-</p>
-
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvawagh123&label=Profile%20views&color=0e75b6&style=flat" alt="atharvawagh123" /> </p>
