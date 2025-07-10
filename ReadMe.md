@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ai34.onrender.com/](https://portfolio-ai34.onrender.com/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react**and**angular**
 
 - 📫 How to reach me **watharva383@gmail.com**
 
